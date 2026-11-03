@@ -1,1 +1,4 @@
 # career-compass
+#problem statement: Smart Education – Personalized Career Guidance for Students.
+
+#Theme:CareerCompass focuses on addressing the lack of proper career guidance among students by providing a structured, accessible, and personalized digital platform. It helps students understand their interests, identify their strengths, explore suitable career opportunities, and gain clear information about courses, entrance examinations, educational qualifications, and scholarships. The platform aims to bridge the gap between students' potential and available career opportunities by guiding them towards informed educational and professional decisions. Its ultimate goal is to make career guidance more accessible, reduce confusion in career selection, and empower students to build a clear pathway towards their future.
